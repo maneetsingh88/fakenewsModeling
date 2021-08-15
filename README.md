@@ -1,0 +1,1 @@
+In this project, we are analyzing the spread of fake news using the concepts of opinion dynamics on social networks.
